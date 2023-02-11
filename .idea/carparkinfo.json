@@ -453,7 +453,7 @@
                 "type": "Point",
                 "coordinates": [
                    25.0554429,
-				   121.5133404
+		   121.5133404
                 ]
             }
         },
@@ -477,7 +477,31 @@
                 "type": "Point",
                 "coordinates": [
                    25.058443,
-				   121.5083372
+		   121.5083372
+		]
+            }
+        },
+	                        {
+            "type": "Feature",
+            "properties": {
+                "id": "21",
+                "name": " 僑安地下停車場 ",
+                "phone": "2721-2389",
+                "address": "忠孝東路4段306號地下",
+                "updated": "2023\/02\/12 00:00:00",
+                "available": ""
+                "note": "臺北市提供計程車停車免費1小時服務",
+                "custom_note": "",
+                "website": "",
+                "county": "台北市",
+                "town": " 大安區",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   25.0406905,
+	           121.5544829
                  ]
             }
         }
