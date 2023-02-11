@@ -508,6 +508,150 @@
           {
             "type": "Feature",
             "properties": {
+                "id": "22",
+                "name": " 金華公園地下停車場",
+                "phone": "2357-8564",
+                "address": "金華街190號地下",
+                "updated": "2023\/01\/30 00:00:00",
+                "available": "",
+                "note": "臺北市提供計程車停車免費1小時服務",
+                "custom_note": "",
+                "website": "",
+                "county": "台北市",
+                "town": "大安區",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0323923,
+                    121.5259728
+                ]
+            }
+        },
+          {
+            "type": "Feature",
+            "properties": {
+                "id": "23",
+                "name": "大安高工地下停車場",
+                "phone": "2702-7924",
+                "address": "信義路3段166巷6弄12號地下",
+                "updated": "2023\/01\/30 00:00:00",
+                "available": "",
+                "note": "臺北市提供計程車停車免費1小時服務",
+                "custom_note": "",
+                "website": "",
+                "county": "台北市",
+                "town": "大安區",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0326427,
+                    121.538752
+                ]
+            }
+        },
+          {
+            "type": "Feature",
+            "properties": {
+                "id": "24",
+                "name": "龍門國中地下停車場",
+                "phone": "2739-8983",
+                "address": "建國南路2段269號地下",
+                "updated": "2023\/01\/30 00:00:00",
+                "available": "",
+                "note": "臺北市提供計程車停車免費1小時服務",
+                "custom_note": "",
+                "website": "",
+                "county": "台北市",
+                "town": "大安區",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0237532,
+                    121.5360384
+                ]
+            }
+        },
+          {
+            "type": "Feature",
+            "properties": {
+                "id": "25",
+                "name": "大安森林公園地下停車場",
+                "phone": "2709-2940",
+                "address": "建國南路2段2號地下",
+                "updated": "2023\/01\/30 00:00:00",
+                "available": "",
+                "note": "臺北市提供計程車停車免費1小時服務",
+                "custom_note": "",
+                "website": "",
+                "county": "台北市",
+                "town": "大安區",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0318211,
+                   121.5352685 
+                ]
+            }
+        },
+          {
+            "type": "Feature",
+            "properties": {
+                "id": "26",
+                "name": "附中公園地下停車場",
+                "phone": "2701-4453",
+                "address": "復興南路1段340巷11號地下",
+                "updated": "2023\/01\/30 00:00:00",
+                "available": "",
+                "note": "臺北市提供計程車停車免費1小時服務",
+                "custom_note": "",
+                "website": "",
+                "county": "台北市",
+                "town": "大安區",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0368553,
+                    121.5313544
+                ]
+            }
+        },
+          {
+            "type": "Feature",
+            "properties": {
+                "id": "27",
+                "name": "嘉興公園地下停車場",
+                "phone": "8732-1451",
+                "address": "嘉興街373號地下",
+                "updated": "2023\/01\/30 00:00:00",
+                "available": "",
+                "note": "臺北市提供計程車停車免費1小時服務",
+                "custom_note": "",
+                "website": "",
+                "county": "台北市",
+                "town": "大安區",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    ,
+                    
+                ]
+            }
+        },
+          {
+            "type": "Feature",
+            "properties": {
                 "id": "",
                 "name": "",
                 "phone": "",
